@@ -1,3 +1,4 @@
 🧠 Enhanced Q&A Chatbot With Ollama
+
 This project is a Streamlit-based Q&A chatbot that leverages open-source large language models via Ollama integrated through LangChain. Users can interact with the chatbot using natural language queries, and the app generates intelligent and context-aware responses. The model is selected from the sidebar, allowing flexibility and experimentation with different LLMs (currently defaults to gemma2:2b). The application also supports adjustable parameters such as temperature and max tokens, providing users more control over the chatbot's behavior. API tracing is enabled with LangChain Tracing V2, allowing deeper observability into the query pipeline. This tool is ideal for developers, students, and researchers interested in working with locally hosted or open-access language models in a user-friendly chat interface.
 
